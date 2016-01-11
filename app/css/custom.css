@@ -1,5 +1,13 @@
 /* My styles */
 .img-circle {
-  border-radius: 6px;
-  border: 1px solid red;
+  border-radius: 100%;
+}
+
+.infospan {
+  color: white;
+}
+
+.techlist {
+  list-style: none;
+  text-align: left;
 }
